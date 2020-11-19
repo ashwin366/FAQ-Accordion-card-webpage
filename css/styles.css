@@ -112,7 +112,7 @@ p {
   body {
     padding: 20% 15% 10%;
     display: block;
-    height: auto;
+    min-height: 100vh;
   }
 
   h1 {
